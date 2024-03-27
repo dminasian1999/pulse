@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "minPulse.name",
+  "type": "java.lang.String",
+  "description": "A description for 'minPulse.name'"
+}]}
